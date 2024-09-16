@@ -5,11 +5,11 @@ __Course 1. Foundations of Data Science__
 - Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics
 
 
-__Course 2. Get Started with Python *(In Progress)*__
+__Course 2. Get Started with Python__
 -  Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures
 
 
-__Course 3. Go Beyond the Numbers: Translate Data into Insights__
+__Course 3. Go Beyond the Numbers: Translate Data into Insights  *(In Progress)*__
 - Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
 
 
