@@ -7,18 +7,18 @@ The three projects:
 
 I have chosen Waze as the scenario I will work with throughout the program. A short overview of the course 2 project has been given below, with an in-depth explanation available in the project folder.
 
-<b>Project background</b>
+**Project background**
 
 Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
 Build a dataframe for the churn dataset
 Examine data type of each column
 Gather descriptive statistics
 
-<b>Your assignment</b>
+**Your assignment**
 
 You will build a dataframe for the churn data. After the dataframe is complete, you will organize the data for the process of exploratory data analysis, and update the team on your progress and insights.
 
-<b>Specific project deliverables</b>
+**Specific project deliverables**
 
 With this end-of-course project, you will gain valuable practice and apply your new skills as you complete the following:
 - Complete the questions in the Course 2 PACE strategy document
